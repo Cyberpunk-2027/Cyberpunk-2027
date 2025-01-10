@@ -1,4 +1,4 @@
-Greetings, I’m @Cyberpunk-2027
+Greetings, I’m @Cyberpunk-2027.
 Primary interests would include Artificial Intelligence, mobile device security (Android), transhumanism, and IT support.
 
 Currently learning about cybersecurity, IT support, AI, coding, OSINT journalism, among a few other various subjects. I’m open to collaborating on all things cybersecurity, AI, Blockchain technology, coding (Python in particular), all things Android, and OSINT journalism.
